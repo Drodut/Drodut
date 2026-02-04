@@ -23,4 +23,4 @@ Analysis and Systems Development student focused on backend development with Jav
 - Gain experience with real-world projects
 - Continuously improve my skills in Java and Python
 
-- ## Future backend developer... 👻
+## Future backend developer... 👻
