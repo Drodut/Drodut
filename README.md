@@ -9,8 +9,11 @@ Analysis and Systems Development student focused on backend development with Jav
 
 ### Technologies
 - Java
+- JavaScript
 - Python
-- SQLite
+- SQL
+- HTML
+- CSS
 - Git & GitHub
 
 ### What I'm working on
